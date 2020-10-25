@@ -1,0 +1,11 @@
+C:\Users\Arap\Desktop\OOP\C#\DZ1\obj\Debug\netcoreapp3.0\DZ1.csprojAssemblyReference.cache
+C:\Users\Arap\Desktop\OOP\C#\DZ1\obj\Debug\netcoreapp3.0\DZ1.AssemblyInfoInputs.cache
+C:\Users\Arap\Desktop\OOP\C#\DZ1\obj\Debug\netcoreapp3.0\DZ1.AssemblyInfo.cs
+C:\Users\Arap\Desktop\OOP\C#\DZ1\bin\Debug\netcoreapp3.0\DZ1.exe
+C:\Users\Arap\Desktop\OOP\C#\DZ1\bin\Debug\netcoreapp3.0\DZ1.deps.json
+C:\Users\Arap\Desktop\OOP\C#\DZ1\bin\Debug\netcoreapp3.0\DZ1.runtimeconfig.json
+C:\Users\Arap\Desktop\OOP\C#\DZ1\bin\Debug\netcoreapp3.0\DZ1.runtimeconfig.dev.json
+C:\Users\Arap\Desktop\OOP\C#\DZ1\bin\Debug\netcoreapp3.0\DZ1.dll
+C:\Users\Arap\Desktop\OOP\C#\DZ1\bin\Debug\netcoreapp3.0\DZ1.pdb
+C:\Users\Arap\Desktop\OOP\C#\DZ1\obj\Debug\netcoreapp3.0\DZ1.dll
+C:\Users\Arap\Desktop\OOP\C#\DZ1\obj\Debug\netcoreapp3.0\DZ1.pdb
